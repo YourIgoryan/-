@@ -1,0 +1,21 @@
+
+# Переменные окружения и секреты
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Локальная база данных
+*.db
+*.sqlite3
+
+# Временные файлы
+*.log
